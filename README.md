@@ -72,7 +72,7 @@ Listing the top 10 by adding all production. Brazil is leading the market.
 ### 2.2 Top Coffee Producing Nations between 1998-2018
 
 <p align="center">
-  <img src="images/ss1.png">
+  <img width=500 src="images/ss1.png">
 </p>
 
 Display the production in millions with shortened labels.
@@ -99,7 +99,7 @@ ax.bar(x=top10_producers.index, height=top10_producers / 1000000)
 ### 2.4 Top 5 Nations Visualized
 
 <p align="center">
-  <img src="images/ss2.png">
+  <img width=500 src="images/ss2.png">
 </p>
 
 Brazil kept its gradual growth over time. Vietnam improved by 3 places, however
@@ -114,7 +114,7 @@ to 2018.
 Brazil dominates the market, but by how much?
 
 <p align="center">
-  <img src="images/ss3.png">
+  <img width=500 src="images/ss3.png">
 </p>
 
 The graph displays how Brazil shapes the global production. Every increase in
@@ -127,7 +127,7 @@ Brazil's production shows a steep incline the world's production. Until the
 ### 2.6 Venezuala vs Brazil Scatterplot
 
 <p align="center">
-  <img src="images/ss4.png">
+  <img width=500 src="images/ss4.png">
 </p>
 
 
@@ -136,7 +136,7 @@ Brazil's production shows a steep incline the world's production. Until the
 ### 2.7 Vietnam vs Brazil Scatterplot
 
 <p align="center">
-  <img src="images/ss5.png">
+  <img width=500 src="images/ss5.png">
 </p>
 
 ---
@@ -144,21 +144,21 @@ Brazil's production shows a steep incline the world's production. Until the
 ### 2.8 Compostion
 
 <p align="center">
-  <img src="images/ss6.png">
+  <img width=500 src="images/ss6.png">
 </p>
 
 
 ### 2.9 Brazil vs Globe in 1990
 
 <p align="center">
-  <img src="images/ss7.png">
+  <img width=250 src="images/ss7.png">
 </p>
 
 
 ### 2.10 Brazil vs Globe in 2018
 
 <p align="center">
-  <img src="images/ss8.png">
+  <img width=250 src="images/ss8.png">
 </p>
 
 > 9% increase in 28 years.
@@ -171,7 +171,7 @@ Brazil's production shows a steep incline the world's production. Until the
 
 
 <p align="center">
-  <img src="images/ss9.png">
+  <img width=900 src="images/ss9.png">
 </p>
 
 
